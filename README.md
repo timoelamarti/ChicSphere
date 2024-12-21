@@ -6,6 +6,13 @@ ChicSphere est une application Flutter permettant de gérer un inventaire de vê
 ![image](https://github.com/user-attachments/assets/6bd755ed-694a-45c0-98b5-53873fd0faa4)
 
 ## Fonctionnalités Principales
+Comptes de Test
+
+Deux comptes utilisateurs sont configurés pour tester l'application :
+
+Email : hatim1.elamarti@gmail.com | Mot de passe : TIMO1234
+
+Email : prof@gmail.com | Mot de passe : Prof123
 
 ### 1. **Authentification Firebase**
 - Connexion des utilisateurs via Firebase Authentication.
