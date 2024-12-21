@@ -166,5 +166,5 @@ lib/
 
 ## Auteurs
 - **Nom** : Hatim El Amarti
-- **Email** : [email@example.com](mailto:email@example.com)
+- **Email** : hatim1.elamarti@gmail.com
 
