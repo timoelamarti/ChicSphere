@@ -1,10 +1,9 @@
 # ChicSphere
 
 ChicSphere est une application Flutter permettant de gérer un inventaire de vêtements, incluant des fonctionnalités telles que l'ajout d'articles, la gestion d'un panier, et l'affichage détaillé des vêtements. Elle propose également un système d'authentification via Firebase, permettant aux utilisateurs de se connecter et de gérer leur profil.
-![image](https://github.com/user-attachments/assets/7a95db32-19c6-44db-95b7-334b4de8cd9f)
-
 
 ---
+![image](https://github.com/user-attachments/assets/6bd755ed-694a-45c0-98b5-53873fd0faa4)
 
 ## Fonctionnalités Principales
 
