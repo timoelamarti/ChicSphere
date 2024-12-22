@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032670758538",
+    "project_id": "chicsphere-85061",
+    "storage_bucket": "chicsphere-85061.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032670758538:android:805d6d15f394331109cf73",
+        "android_client_info": {
+          "package_name": "com.example.chic_sphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIEbx7Qp_Wlq4eD6v-0bW_1WwxwbI0L58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

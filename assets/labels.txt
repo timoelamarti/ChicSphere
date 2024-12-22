@@ -1,0 +1,10 @@
+T-shirt/haut
+Pantalon
+Pull
+Robe
+Manteau
+Sandale
+Chemise
+Basket
+Sac
+Bottine
